@@ -106,6 +106,7 @@ export const games: Game[] = [
     links: [
     ],
     media: [
+      { source: "/images/games/Cyberpunk_Rock/Cover.png", type: MediaType.Image },
       { source: "https://www.youtube.com/embed/Mozh3sDX64c", type: MediaType.YouTube },
       { source: "/images/games/Cyberpunk_Rock/Screenshot_1.jpg", type: MediaType.Image },
       { source: "/images/games/Cyberpunk_Rock/Screenshot_2.jpg", type: MediaType.Image },
