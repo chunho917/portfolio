@@ -56,6 +56,9 @@ jobs:
           done
 
       - name: Build production site
+        env:
+          # wa.me expects the international phone number in digits only.
+          REACT_APP_WA_NUMBER: "85294819672"
         shell: bash
         run: |
           set -euo pipefail
