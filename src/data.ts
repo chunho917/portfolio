@@ -25,7 +25,7 @@ export const games: Game[] = [
       { source: LinkImageSource.AppStore, url: "https://apps.apple.com/us/app/moonlight-ascension-werewolf/id6450210233" },
     ],
     media: [
-      { source: "https://www.youtube.com/embed/9uT7VOPj7ws?si=YpTFU6wtXsccr3mM", type: MediaType.YouTube },
+      { source: "https://www.youtube.com/embed/9uT7VOPj7ws", type: MediaType.YouTube },
       { source: "/images/games/Moonlight_Ascension/Screenshot_1.png", type: MediaType.Image },
       { source: "/images/games/Moonlight_Ascension/Screenshot_2.png", type: MediaType.Image },
       { source: "/images/games/Moonlight_Ascension/Screenshot_3.png", type: MediaType.Image },
@@ -45,7 +45,7 @@ export const games: Game[] = [
       { source: LinkImageSource.GooglePlay, url: "https://play.google.com/store/apps/details?id=furniture.decor.design" },
     ],
     media: [
-      { source: "https://www.youtube.com/embed/6pDijpfAkAE?si=9imDnVkoVSvq47QQ", type: MediaType.YouTube },
+      { source: "https://www.youtube.com/embed/6pDijpfAkAE", type: MediaType.YouTube },
       { source: "/images/games/Dream_Decor/Screenshot_1.png", type: MediaType.Image },
       { source: "/images/games/Dream_Decor/Screenshot_2.png", type: MediaType.Image },
       { source: "/images/games/Dream_Decor/Screenshot_3.png", type: MediaType.Image },
@@ -65,7 +65,7 @@ export const games: Game[] = [
       { source: LinkImageSource.GooglePlay, url: "https://play.google.com/store/apps/details?id=island.romance.game" },
     ],
     media: [
-      { source: "https://www.youtube.com/embed/Io7DXRmtyns?si=HDf83oKNibYEOKJ1", type: MediaType.YouTube },
+      { source: "https://www.youtube.com/embed/Io7DXRmtyns", type: MediaType.YouTube },
       { source: "/images/games/Crush_Island/Screenshot_1.png", type: MediaType.Image },
       { source: "/images/games/Crush_Island/Screenshot_2.png", type: MediaType.Image },
       { source: "/images/games/Crush_Island/Screenshot_3.png", type: MediaType.Image },
@@ -84,7 +84,7 @@ export const games: Game[] = [
       { source: LinkImageSource.GooglePlay, url: "https://play.google.com/store/apps/details?id=fantasy.story.spellbound" },
     ],
     media: [
-      { source: "https://www.youtube.com/embed/np8CpEqRjBk?si=hCaawqHef24En2uN", type: MediaType.YouTube },
+      { source: "https://www.youtube.com/embed/np8CpEqRjBk", type: MediaType.YouTube },
       { source: "/images/games/Spellbound/Screenshot_1.png", type: MediaType.Image },
       { source: "/images/games/Spellbound/Screenshot_2.png", type: MediaType.Image },
       { source: "/images/games/Spellbound/Screenshot_3.png", type: MediaType.Image },
@@ -102,7 +102,7 @@ export const games: Game[] = [
     links: [
     ],
     media: [
-      { source: "https://www.youtube.com/embed/Mozh3sDX64c?si=Bgmi6MR2oQpJYKhi", type: MediaType.YouTube },
+      { source: "https://www.youtube.com/embed/Mozh3sDX64c", type: MediaType.YouTube },
       { source: "/images/games/Cyberpunk_Rock/Screenshot_1.jpg", type: MediaType.Image },
       { source: "/images/games/Cyberpunk_Rock/Screenshot_2.jpg", type: MediaType.Image },
       { source: "/images/games/Cyberpunk_Rock/Screenshot_3.jpg", type: MediaType.Image },
@@ -117,7 +117,7 @@ export const games: Game[] = [
     links: [
     ],
     media: [
-      { source: "https://www.youtube.com/embed/jH4wch0NbMg?si=7h9P-b43Ywc68TKr", type: MediaType.YouTube },
+      { source: "https://www.youtube.com/embed/jH4wch0NbMg", type: MediaType.YouTube },
     ],
   }
 ];
