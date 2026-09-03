@@ -103,9 +103,9 @@ export const games: Game[] = [
     ],
     media: [
       { source: "https://www.youtube.com/embed/Mozh3sDX64c?si=Bgmi6MR2oQpJYKhi", type: MediaType.YouTube },
-      { source: "/images/games/Cyberpunk_Rock/Screenshot_1.png", type: MediaType.Image },
-      { source: "/images/games/Cyberpunk_Rock/Screenshot_2.png", type: MediaType.Image },
-      { source: "/images/games/Cyberpunk_Rock/Screenshot_3.png", type: MediaType.Image },
+      { source: "/images/games/Cyberpunk_Rock/Screenshot_1.jpg", type: MediaType.Image },
+      { source: "/images/games/Cyberpunk_Rock/Screenshot_2.jpg", type: MediaType.Image },
+      { source: "/images/games/Cyberpunk_Rock/Screenshot_3.jpg", type: MediaType.Image },
     ],
   },
   {
