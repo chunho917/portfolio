@@ -46,6 +46,7 @@ export const games: Game[] = [
       { source: LinkImageSource.GooglePlay, url: "https://play.google.com/store/apps/details?id=furniture.decor.design" },
     ],
     media: [
+      { source: "/images/games/Dream_Decor/Cover.jpg", type: MediaType.Image },
       { source: "https://www.youtube.com/embed/6pDijpfAkAE", type: MediaType.YouTube },
       { source: "/images/games/Dream_Decor/Screenshot_1.png", type: MediaType.Image },
       { source: "/images/games/Dream_Decor/Screenshot_2.png", type: MediaType.Image },
@@ -66,6 +67,7 @@ export const games: Game[] = [
       { source: LinkImageSource.GooglePlay, url: "https://play.google.com/store/apps/details?id=island.romance.game" },
     ],
     media: [
+      { source: "/images/games/Crush_Island/Cover.jpg", type: MediaType.Image },      
       { source: "https://www.youtube.com/embed/Io7DXRmtyns", type: MediaType.YouTube },
       { source: "/images/games/Crush_Island/Screenshot_1.png", type: MediaType.Image },
       { source: "/images/games/Crush_Island/Screenshot_2.png", type: MediaType.Image },
@@ -85,6 +87,7 @@ export const games: Game[] = [
       { source: LinkImageSource.GooglePlay, url: "https://play.google.com/store/apps/details?id=fantasy.story.spellbound" },
     ],
     media: [
+      { source: "/images/games/Spellbound/Cover.jpg", type: MediaType.Image },
       { source: "https://www.youtube.com/embed/np8CpEqRjBk", type: MediaType.YouTube },
       { source: "/images/games/Spellbound/Screenshot_1.png", type: MediaType.Image },
       { source: "/images/games/Spellbound/Screenshot_2.png", type: MediaType.Image },
