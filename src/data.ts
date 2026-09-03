@@ -25,6 +25,7 @@ export const games: Game[] = [
       { source: LinkImageSource.AppStore, url: "https://apps.apple.com/us/app/moonlight-ascension-werewolf/id6450210233" },
     ],
     media: [
+      { source: "/images/games/Moonlight_Ascension/Cover.jpg", type: MediaType.Image },
       { source: "https://www.youtube.com/embed/9uT7VOPj7ws", type: MediaType.YouTube },
       { source: "/images/games/Moonlight_Ascension/Screenshot_1.png", type: MediaType.Image },
       { source: "/images/games/Moonlight_Ascension/Screenshot_2.png", type: MediaType.Image },
