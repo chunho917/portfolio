@@ -33,6 +33,7 @@ export const games: Game[] = [
       { source: "/images/games/Moonlight_Ascension/Screenshot_4.png", type: MediaType.Image },
       { source: "/images/games/Moonlight_Ascension/Screenshot_5.png", type: MediaType.Image },
       { source: "/images/games/Moonlight_Ascension/Screenshot_6.png", type: MediaType.Image },
+      { source: "/images/games/Moonlight_Ascension/Screenshot_7.png", type: MediaType.Image },
     ],
   },
   {
